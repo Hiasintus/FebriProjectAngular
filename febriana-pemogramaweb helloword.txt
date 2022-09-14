@@ -1,0 +1,15 @@
+jikamau pindah directory misalnya g:
+
+visual studio code
+view-terminal
+NPM -V
+npm install -g @angular/cli
+setting windows 
+setting-for developers-powershell-apply
+ng version
+
+helloword
+ng new helloWord
+cd helloWorld/src
+ng serve
+muncul http://localhost:4200
